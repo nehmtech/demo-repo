@@ -13,4 +13,5 @@ def subtract():
     b = 2000
     print(a - b)
     
-b = "How are you?"
+a = "Hello there"
+
